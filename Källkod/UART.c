@@ -1,5 +1,5 @@
 #include "UART.h" // Inkludera headerfilen UART med tillhörande källkod.
-#include "Stm32f4xx.h" //Inkludera bibliotek med tillhörande funktioner och källkod för microkontrollern.
+#include "stm32f4xx.h" //Inkludera bibliotek med tillhörande funktioner och källkod för microkontrollern.
 #include <stdio.h>
 
 // Definiera funktion som inte tar några argument för att initiera Usart-protokollet och dess beståndsdelar. Denna funktion utgör en drivrutin.
